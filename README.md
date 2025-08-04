@@ -6,6 +6,8 @@ Official code for the **Node Attribute Transformer (NATR)** from the KDD 2025 pa
 
 **[Understanding and Tackling Over-Dilution in Graph Neural Networks](https://dl.acm.org/doi/10.1145/3711896.3737168)**
 
+**Authors:** Junhyun Lee, Veronika Thost, Bumsoo Kim, Jaewoo Kang, Tengfei Ma
+
 **Extended version** (to appear on arXiv): [PDF](./extended_version.pdf)
 
 **Poster:** [PDF](./KDD_poster.pdf)

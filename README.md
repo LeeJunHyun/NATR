@@ -6,6 +6,9 @@ Official code for the **Node Attribute Transformer (NATR)** from the KDD 2025 pa
 
 **[Understanding and Tackling Over-Dilution in Graph Neural Networks](https://dl.acm.org/doi/10.1145/3711896.3737168)**
 
+Extended version (will be uploaded on arXiv): 
+**[Understanding and Tackling Over-Dilution in Graph Neural Networks](./extended_version.pdf)**
+
 NATR mitigates **over-dilution** in GNNs by (1) dynamically weighting attribute tokens (intra-node) and (2) preserving node-specific signals during propagation (inter-node), via a transformer-style **Attribute Encoder → Attribute Decoder** that plugs into standard GNN backbones.
 
 ![NATR model](./NATRmodel.png)
